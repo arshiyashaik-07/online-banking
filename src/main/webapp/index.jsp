@@ -1,5 +1,5 @@
 <html>
-<body>
-<h2> Hello Hiiii this is arshiya!</h2>
-</body>
+  <body>
+    <h2 style="color: red;">Hello Hiiii this is Arshiya!</h2>
+  </body>
 </html>
